@@ -1,4 +1,3 @@
-import "./form.scss";
+import "../assets/styles/styles.scss";
 import "/assets/javascript/topbar";
-
-console.log("in form");
+import "./form.scss";
